@@ -1,6 +1,6 @@
-package Main;
+package ConsignaModificada.Main;
 
-import Servicios.EmpleadoService;
+import ConsignaModificada.Servicios.EmpleadoService;
 
 public class Main {
     public static void main(String[] args) {

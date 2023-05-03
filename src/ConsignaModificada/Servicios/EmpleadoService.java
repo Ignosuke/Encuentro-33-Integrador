@@ -1,9 +1,9 @@
-package Servicios;
+package ConsignaModificada.Servicios;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-import Entidades.Empleado;
+import ConsignaModificada.Entidades.Empleado;
 
 public class EmpleadoService {
     private Scanner leer = new Scanner(System.in);

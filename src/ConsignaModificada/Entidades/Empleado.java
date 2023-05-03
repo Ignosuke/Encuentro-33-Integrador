@@ -1,4 +1,4 @@
-package Entidades;
+package ConsignaModificada.Entidades;
 
 public class Empleado {
     private String nombre;
